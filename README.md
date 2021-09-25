@@ -21,4 +21,8 @@ https://medium.com/@mmansur
 
 - [Titanic survival prediction model](https://github.com/marcos-mansur/Kaggle_Titanic) - Machine Learning model to predict survivability of Titanic passangers
 
-- [Web Scrapping learning projects](https://github.com/marcos-mansur/WebScrappingProjects) - a robot to download book covers from https://inventwithpython.com/ and another that plays simple instructions and record the board of each play in 2048 with selenium
+- [Web Scrapping learning projects](https://github.com/marcos-mansur/WebScrappingProjects) - a robot to download book covers from https://inventwithpython.com/ and another that plays simple instructions and record the board of each play in 2048 with selenium and bs4
+
+- [Study notes](https://github.com/marcos-mansur/my-study-notes) - Notes from the early studies of SQL, Python for data analysis and machine learning (basic commands, pandas, numpy) and web scrapping using selenium and bs4
+
+- [Code Wars katas](https://github.com/marcos-mansur/code-wars-katas) - solutions to a few katas from Code Wars ranging from 8 kyu to 5 kyu
