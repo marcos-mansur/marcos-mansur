@@ -11,3 +11,14 @@ Send me a message, let's talk and connect!
 
 If you can read portuguese, i write about machine learning and Data Science at:
 https://medium.com/@mmansur
+
+
+# Summary
+
+[Tabular Data Sep21 Analysis- Kaggle competition](https://github.com/marcos-mansur/TPS-sep21) - LightGBM regressor tuned with bayesian optimization (optuna)
+
+[IDHM prediction of brazilian cities](https://github.com/marcos-mansur/brazilian_cities_IDHM) - Voting regressor of 4 tree-based algorithyms to predict de IDHM of brazilian cities
+
+[Titanic survival prediction model](https://github.com/marcos-mansur/Kaggle_Titanic) - Machine Learning model to predict survivability of Titanic passangers
+
+[Web Scrapping learning projects](https://github.com/marcos-mansur/WebScrappingProjects) - a robot to download book covers from https://inventwithpython.com/ and another that plays simple instructions and record the board of each play in 2048
