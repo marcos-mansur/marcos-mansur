@@ -1,4 +1,4 @@
-Hi! I'm Marcos Mansur, a brazillian production engineering student in love with programming and machine learning!
+Hi! I'm Marcos Mansur, a brazilian production engineering student in love with programming and machine learning!
 
 After 1 year and 8 months of internship in Brands Marketing at a multinational company, I quit to persue a field of knowledge that had been fascinating me for quite some time: Machine Learning! Currently, studying every day to build a solid base for a career in Data Science and related areas.
 
