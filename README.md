@@ -17,7 +17,7 @@ https://medium.com/@mmansur
 
 - [Tabular Data Sep21 Analysis- Kaggle competition](https://github.com/marcos-mansur/TPS-sep21) - LightGBM regressor tuned with bayesian optimization (optuna)
 
-- [IDHM prediction of brazilian cities](https://github.com/marcos-mansur/brazilian_cities_IDHM) - Voting regressor of 4 tree-based algorithyms to predict de IDHM of brazilian cities
+- [IDHM prediction of brazilian cities](https://github.com/marcos-mansur/brazilian_cities_IDHM) - Voting regressor of 4 tree-based algorithms to predict de IDHM of brazilian cities
 
 - [Titanic survival prediction model](https://github.com/marcos-mansur/Kaggle_Titanic) - Machine Learning model to predict survivability of Titanic passangers
 
