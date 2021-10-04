@@ -15,7 +15,7 @@ https://medium.com/@mmansur
 
 # Summary
 
--[Time series Regression Model for VLabs Challange](https://github.com/marcos-mansur/vlabs-challenge) - Under Development
+- [Time series Regression Model for VLabs Challange](https://github.com/marcos-mansur/vlabs-challenge) - Under Development
 
 - [Tabular Data Sep21 Analysis- Kaggle competition](https://github.com/marcos-mansur/TPS-sep21) - LightGBM regressor tuned with bayesian optimization (optuna)
 
