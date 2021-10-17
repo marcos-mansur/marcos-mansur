@@ -16,7 +16,7 @@ https://medium.com/@mmansur
 
 # Summary
 
-- [Time series Regression Model for VLabs Challange](https://github.com/marcos-mansur/vlabs-challenge) - ElasticNet Regressor to predict how much each client is going to spent in the next 90 days based on data from 14 months of purchases. 5 diferent models to predict customer lifetime value by chanel of sale. (Notebooks in portuguese-BR)
+- [Time series Regression Model for VLabs Challange](https://github.com/marcos-mansur/vlabs-challenge) - ElasticNet Regressor to predict how much each client is going to spend in the next 90 days based on data from 14 months of purchases. 5 diferent models to predict customer lifetime value by chanel of sale. (Notebooks in portuguese-BR)
 
 - [Tabular Data Sep21 Analysis- Kaggle competition](https://github.com/marcos-mansur/TPS-sep21) - LightGBM regressor tuned with bayesian optimization (optuna)
 
