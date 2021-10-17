@@ -1,6 +1,7 @@
-Hi! I'm Marcos Mansur, a brazilian production engineering student in love with programming and machine learning!
+#Hello, worl- You! 
+I'm Marcos Mansur, a brazilian production engineering student in love with programming and machine learning!
 
-After 1 year and 8 months of internship in Brands Marketing at a multinational company, I quit to persue a field of knowledge that had been fascinating me for quite some time: Machine Learning! Currently, studying every day to build a solid base for a career in Data Science and related areas.
+After 1 year and 8 months of internship in Brands Marketing at a multinational company, I quit to pursue a field of knowledge that has been fascinating me for quite some time: Machine Learning! Currently, studying every day to build a solid base for a career in Data Science and related areas.
 
 Strongly problem solving oriented and motivated by challenges and puzzles. Very curious, always learning!
 
@@ -15,7 +16,7 @@ https://medium.com/@mmansur
 
 # Summary
 
-- [Time series Regression Model for VLabs Challange](https://github.com/marcos-mansur/vlabs-challenge) - Under Development
+- [Time series Regression Model for VLabs Challange](https://github.com/marcos-mansur/vlabs-challenge) - ElasticNet Regressor to predict how much each client is going to spent in the next 90 days based on data from 14 months of purchases. 5 diferent models to predict customer lifetime value by chanel of sale. (Notebooks in portuguese-BR)
 
 - [Tabular Data Sep21 Analysis- Kaggle competition](https://github.com/marcos-mansur/TPS-sep21) - LightGBM regressor tuned with bayesian optimization (optuna)
 
