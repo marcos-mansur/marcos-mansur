@@ -22,7 +22,7 @@ https://medium.com/@mmansur
 
 - [IDHM prediction of brazilian cities](https://github.com/marcos-mansur/brazilian_cities_IDHM) - Voting regressor of 4 tree-based algorithms to predict de IDHM of brazilian cities
 
-- [Titanic survival prediction model](https://github.com/marcos-mansur/Kaggle_Titanic) - Machine Learning model to predict survivability of Titanic passangers. CI basic structure on yaml file to print performance metrics as comments in pull requests
+- [Titanic survival prediction model](https://github.com/marcos-mansur/Kaggle_Titanic) - Machine Learning model to predict survivability of Titanic passangers. CI basic structure on yaml file to print performance metrics as comments in pull requests. This model scores TOP 3% at ["Titanic - Machine Learning from Disaster"](https://www.kaggle.com/c/titanic) Kaggle competition - Accuracy = 0.80382 at the leaderboard.
 
 - [Web Scrapping learning projects](https://github.com/marcos-mansur/WebScrappingProjects) - a robot to download book covers from https://inventwithpython.com/ and another that plays simple instructions and record the board of each play in 2048 with selenium and bs4
 
