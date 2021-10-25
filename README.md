@@ -18,13 +18,13 @@ https://medium.com/@mmansur
 
 - [Time series Regression Model for VLabs Challange](https://github.com/marcos-mansur/vlabs-challenge) - ElasticNet Regressor to predict how much each client is going to spend in the next 90 days based on data from 14 months of purchases. 5 diferent models to predict customer lifetime value by chanel of sale. (Notebooks in portuguese-BR)
 
-- [Tabular Data Sep21 Analysis- Kaggle competition](https://github.com/marcos-mansur/TPS-sep21) - LightGBM regressor tuned with bayesian optimization (optuna)
+- [Tabular Data Sep21 Analysis- Kaggle competition](https://github.com/marcos-mansur/TPS-sep21) - LightGBM regressor tuned with bayesian optimization (optuna) for the tabular data competition. The dataset has 118 unnamed numeric features and the missing values are significantly relevant for prediction.
 
-- [IDHM prediction of brazilian cities](https://github.com/marcos-mansur/brazilian_cities_IDHM) - Voting regressor of 4 tree-based algorithms to predict de IDHM of brazilian cities
+- [IDHM prediction of brazilian cities](https://github.com/marcos-mansur/brazilian_cities_IDHM) - Voting regressor of 4 tree-based algorithms to predict de IDHM (Municipal Human Development Index) of brazilian cities
 
 - [Titanic survival prediction model](https://github.com/marcos-mansur/Kaggle_Titanic) - Machine Learning model to predict survivability of Titanic passangers. CI basic structure on yaml file to print performance metrics as comments in pull requests. This model scores TOP 3% at ["Titanic - Machine Learning from Disaster"](https://www.kaggle.com/c/titanic) Kaggle competition - Accuracy = 0.80382 at the leaderboard.
 
-- [Web Scrapping learning projects](https://github.com/marcos-mansur/WebScrappingProjects) - a robot to download book covers from https://inventwithpython.com/ and another that plays simple instructions and record the board of each play in 2048 with selenium and bs4
+- [Web Scrapping learning projects](https://github.com/marcos-mansur/WebScrappingProjects) - a robot to download book covers from https://inventwithpython.com/ and another that plays simple instructions and record the board of each play at [2048](https://play2048.co/) with selenium and bs4
 
 - [Study notes](https://github.com/marcos-mansur/my-study-notes) - Notes from the early studies of SQL, Python for data analysis and machine learning (basic commands, pandas, numpy) and web scrapping using selenium and bs4
 
