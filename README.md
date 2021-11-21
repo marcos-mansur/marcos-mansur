@@ -23,7 +23,7 @@ https://medium.com/@mmansur
 - [IDHM prediction of brazilian cities](https://github.com/marcos-mansur/brazilian_cities_IDHM) - Voting regressor of 4 tree-based algorithms to predict de IDHM (Municipal Human Development Index) of brazilian cities
 
 - [Deployed Web App to compare routes on a map](https://github.com/marcos-mansur/plot_route_app) - A Streamlit based deployed web app that plot multiple routes on a map for comparison and geospatial analysis. You can play with the app at: https://share.streamlit.io/marcos-mansur/plot_route_app/main/MyApp.py
-- 
+ 
 - [Web Scrapping learning projects](https://github.com/marcos-mansur/WebScrappingProjects) - a robot to download book covers from https://inventwithpython.com/ and another that plays simple instructions and record the board of each play at [2048](https://play2048.co/) with selenium and bs4
 
 - [Study notes](https://github.com/marcos-mansur/my-study-notes) - Notes from the early studies of SQL, Python and machine learning (basic commands, pandas, numpy) and web scrapping using selenium and bs4
