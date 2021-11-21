@@ -1,7 +1,5 @@
 # Hello, worl- You! 
-I'm Marcos Mansur, a brazilian production engineering student in love with programming and machine learning!
-
-After 1 year and 8 months of internship in Brands Marketing at a multinational company, I quit to pursue a field of knowledge that has been fascinating me for quite some time: Machine Learning! Currently, studying every day to build a solid base for a career in Data Science and related areas.
+I'm Marcos Mansur, a brazilian production engineering student very passionate about programming, data science and machine learning!
 
 Strongly problem solving oriented and motivated by challenges and puzzles. Very curious, always learning!
 
@@ -24,9 +22,10 @@ https://medium.com/@mmansur
 
 - [IDHM prediction of brazilian cities](https://github.com/marcos-mansur/brazilian_cities_IDHM) - Voting regressor of 4 tree-based algorithms to predict de IDHM (Municipal Human Development Index) of brazilian cities
 
-
+- [Deployed Web App to compare routes on a map](https://github.com/marcos-mansur/plot_route_app) - A Streamlit based deployed web app that plot multiple routes on a map for comparison and geospatial analysis. You can play with the app at: https://share.streamlit.io/marcos-mansur/plot_route_app/main/MyApp.py
+- 
 - [Web Scrapping learning projects](https://github.com/marcos-mansur/WebScrappingProjects) - a robot to download book covers from https://inventwithpython.com/ and another that plays simple instructions and record the board of each play at [2048](https://play2048.co/) with selenium and bs4
 
-- [Study notes](https://github.com/marcos-mansur/my-study-notes) - Notes from the early studies of SQL, Python for data analysis and machine learning (basic commands, pandas, numpy) and web scrapping using selenium and bs4
+- [Study notes](https://github.com/marcos-mansur/my-study-notes) - Notes from the early studies of SQL, Python and machine learning (basic commands, pandas, numpy) and web scrapping using selenium and bs4
 
 - [Code Wars katas](https://github.com/marcos-mansur/code-wars-katas) - solutions to a few katas from Code Wars ranging from 8 kyu to 5 kyu
