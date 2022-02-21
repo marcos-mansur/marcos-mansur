@@ -16,7 +16,7 @@ https://medium.com/@mmansur
 
 - [Titanic survival prediction model](https://github.com/marcos-mansur/Kaggle_Titanic) - Machine Learning model to predict survivability of Titanic passangers. CI basic structure on yaml file to print performance metrics as comments in pull requests. This model scores TOP 3% at ["Titanic - Machine Learning from Disaster"](https://www.kaggle.com/c/titanic) Kaggle competition - Accuracy = 0.80382 at the leaderboard.
 
-- [Time series Regression Model for VLabs Challange](https://github.com/marcos-mansur/vlabs-challenge) - ElasticNet Regressor to predict how much each client is going to spend in the next 90 days based on data from 14 months of purchases. 5 diferent models to predict customer lifetime value by chanel of sale. Scored second place in the leaderboard out of 17 teams. (Notebooks in portuguese-BR)
+- [Time series Regression Model for VLabs Challange](https://github.com/marcos-mansur/vlabs-challenge) - ElasticNet Regressor to predict how much each client is going to spend in the next 90 days based on data from 14 months of purchases. 5 diferent models to predict customer lifetime value by channel of sale. Scored second place in the leaderboard out of 17 teams. (Notebooks in portuguese-BR)
 
 - [Tabular Data Sep21 Analysis- Kaggle competition](https://github.com/marcos-mansur/TPS-sep21) - LightGBM regressor tuned with bayesian optimization (optuna) for the tabular data competition. The dataset has 118 unnamed numeric features and the missing values are significantly relevant for prediction.
 
