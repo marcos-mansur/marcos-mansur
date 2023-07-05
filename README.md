@@ -8,7 +8,7 @@ https://www.linkedin.com/in/mmansur/
 
 Send me a message, let's talk and connect!
 
-If you can read portuguese, i write about machine learning and Data Science at:
+If you can read portuguese, I write about machine learning and Data Science at:
 https://medium.com/@mmansur
 
 
