@@ -6,6 +6,8 @@ LinkedIn: https://www.linkedin.com/in/mmansur/
 # Summary
 Some of my study projects: 
 
+- [Energy consumption forecast with RNN](https://github.com/marcos-mansur/load-forecast) - My monography developed to acquire the Bachelor title in Production Engineering from UFF. A recurrent neural network model (based on tensorflow) to forecast the energy consumption of the southeast region of Brazil for the 5 next weeks (outputs a sequence). The model was trained on public data from ONS (Operador Nacional do Sistema Elétrico) and proposes a solution to the energy forecasts that ONS demmands weekly from companies operating in energy distribuition. The study develop and compare models trained to forecast 5 next values from a time series in one shot vs forecasting the next value and auto regressively feeding each prediction as a data point for the next prediction.
+ 
 - [Titanic survival prediction model](https://github.com/marcos-mansur/Kaggle_Titanic) - Machine Learning model to predict survivability of Titanic passangers. CI basic structure on yaml file to print performance metrics as comments in pull requests.
 
 - [Time series Regression Model for VLabs Challange](https://github.com/marcos-mansur/vlabs-challenge) - ElasticNet Regressor to predict how much each client is going to spend in the next 90 days based on data from 14 months of purchases. 5 diferent models to predict customer lifetime value by channel of sale. Scored second place in the leaderboard out of 17 teams. (Notebooks in portuguese-BR)
